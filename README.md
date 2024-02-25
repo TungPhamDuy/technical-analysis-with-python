@@ -9,7 +9,7 @@ Technical Analysis with Python: Moving Averages, Bollinger Bands, and RSI
 This is a Python project written on Jupyter that includes technical analysis using different indicators, building trading strategies based on the indicators, visualizing the results, and backtesting the strategies. The project includes the implementation of the following indicators:
 
 + Simple Moving Average of MA 200
-+ Bollinger Bands
++ Bollinger Bands 
 + RSI - Relative Strength Index
 
 For each indicator, the project includes the following steps:
